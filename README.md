@@ -4,10 +4,9 @@
 
 - I have a passion for Machine Learning and am always learning something new
 
-- 🔭  ### I’m currently working on modeling and prediction UFC fights. 
+- I am currently working on modeling and predicting UFC fights <a href="" target="blank"><img align="center" src="https://github.com/JMGELBER/JMGELBER/blob/main/Logo_of_the_Ultimate_Fighting_Championship.svg.png" height="25" /> </a>
 
-- 📫  ### Find ME Here: 
-<br>
+- 📫 Find Me Here: 
 <a href="https://www.linkedin.com/in/joshua-gelber/" target="blank"><img align="center" src="https://github.com/JMGELBER/JMGELBER/blob/main/LinkedIn_logo_initials.png.webp" height="25" /> </a>
 
 <!--
