@@ -6,7 +6,7 @@ I am a data analytics and business intelligence consultant.
 
 - 🔭 I’m currently working on modeling and prediction UFC fights. 
 - 📫 How to reach me: 
-a href="https://www.linkedin.com/in/joshua-gelber/" target="blank"><img align="center" src="https://github.com/JMGELBER/JMGELBER/blob/main/LinkedIn_logo_initials.png.webp" height="5" /> </a>
+<a href="https://www.linkedin.com/in/joshua-gelber/" target="blank"><img align="center" src="https://github.com/JMGELBER/JMGELBER/blob/main/LinkedIn_logo_initials.png.webp" height="20" /> </a>
 
 <!--
 **JMGELBER/JMGELBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
